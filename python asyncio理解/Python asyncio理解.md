@@ -50,7 +50,7 @@ RESULT = _r
 > 3. Any yield from chain of calls ends with a yield. every await is suspended by a yield somewhere down the chain of await calls. [https://peps.python.org/pep-0492/](https://peps.python.org/pep-0492/)
 
 
-我的理解
+**我的理解**
 
 1. await按照上面理解来展开执行，await chain会逐层展开，执行时会持续next/send把参数往下传递，直到遇到一个真实的yield表达式。然后挂起yield所在函数，把执行权和结果交给上层函数，逐层向上传递，直到最顶层，也就是Task.__step中的coro.send处。
 2. 当再次调用coro.send时，还是从await chain(也就是上面展开中的隐藏yield)开始向下传递数输入的参数给到真实的yield表达式，然后执行yield后的下半部分逻辑
