@@ -185,6 +185,14 @@
   },
   "active": "0f66f1d1a9c0873d",
   "lastOpenFiles": [
+    "技术开发/Telemetry/python/trace/README.md",
+    "技术开发/Telemetry/python/trace",
+    "技术开发/Telemetry/python/metric/README.md",
+    "技术开发/Telemetry/python/metric",
+    "技术开发/Telemetry/python/log/README.md",
+    "技术开发/Telemetry/python/log",
+    "技术开发/Telemetry/python/README.md",
+    "技术开发/Telemetry/python",
     "技术开发/Telemetry/OTel ParallelOTLPMetricExporter/README.md",
     "技术开发/Telemetry/OTel ParallelOTLPMetricExporter",
     "技术开发/Telemetry/OTel 病",
@@ -201,10 +209,6 @@
     "未命名.md",
     "技术开发/数学基础/数学分析/README.md",
     "技术开发/Telemetry/OTel Collector部署/README.md",
-    "技术开发/数学基础/数学分析",
-    "技术开发/Golang",
-    "技术开发/Python",
-    "技术开发/AIOps",
     "技术开发/Telemetry/OpenTelemetry实验/README.md",
     "技术开发/Python/Python asyncio理解.md",
     "技术开发/AIOps/时序预测常用算法/README.md",
@@ -226,10 +230,6 @@
     "技术开发/软件工程/系统分析与设计 面向过程/README.md",
     "技术开发/软件工程/系统架构风格/README.md",
     "技术开发/软件工程/软件过程模型/README.md",
-    "技术开发/Network/RDMA协议RoCEV2/README.md",
-    "技术开发/Network/RDMA相关工具/README.md",
-    "技术开发/OS/操作系统/README.md",
-    "技术开发/Network/收发流程/README.md",
-    "技术开发/LLM/Paper学习/MegaScale Scaling Large Language Model Training to More Than 10,000 GPUs/README.md"
+    "技术开发/Network/RDMA协议RoCEV2/README.md"
   ]
 }
