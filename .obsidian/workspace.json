@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术开发/数学基础/数学分析/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术开发/数学基础/数学分析/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术开发/数学基础/数学分析/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术开发/数学基础/数学分析/README.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,8 +185,8 @@
   },
   "active": "0f66f1d1a9c0873d",
   "lastOpenFiles": [
-    "技术开发/Telemetry/OTel Collector部署/README.md",
     "技术开发/数学基础/数学分析/README.md",
+    "技术开发/Telemetry/OTel Collector部署/README.md",
     "技术开发/数学基础/数学分析",
     "技术开发/Golang",
     "技术开发/Python",
