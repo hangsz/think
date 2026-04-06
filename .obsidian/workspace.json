@@ -185,6 +185,9 @@
   },
   "active": "0f66f1d1a9c0873d",
   "lastOpenFiles": [
+    "技术开发/Telemetry/OTel ParallelOTLPMetricExporter/README.md",
+    "技术开发/Telemetry/OTel ParallelOTLPMetricExporter",
+    "技术开发/Telemetry/OTel 病",
     "技术开发/Python/Python asyncio理解/README.md",
     "技术开发/Python/Python asyncio理解/Python asyncio理解.md",
     "技术开发/Python/Python asyncio理解",
@@ -203,10 +206,8 @@
     "技术开发/Python",
     "技术开发/AIOps",
     "技术开发/Telemetry/OpenTelemetry实验/README.md",
-    "技术开发/Telemetry/OTel Collector部署",
     "技术开发/Python/Python asyncio理解.md",
     "技术开发/AIOps/时序预测常用算法/README.md",
-    "技术开发/Telemetry/OpenTelemetry实验",
     "技术开发/AIOps/异常检测常用算法/README.md",
     "技术开发/AIOps/异常检测常用算法/6.png",
     "技术开发/AIOps/异常检测常用算法/5.png",
@@ -229,7 +230,6 @@
     "技术开发/Network/RDMA相关工具/README.md",
     "技术开发/OS/操作系统/README.md",
     "技术开发/Network/收发流程/README.md",
-    "技术开发/LLM/Paper学习/MegaScale Scaling Large Language Model Training to More Than 10,000 GPUs/README.md",
-    "技术开发/LLM/Paper学习/PyTorch Distributed Experiences on Accelerating Data Parallel Training/README.md"
+    "技术开发/LLM/Paper学习/MegaScale Scaling Large Language Model Training to More Than 10,000 GPUs/README.md"
   ]
 }

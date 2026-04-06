@@ -25,7 +25,7 @@ pip install opentelemetry-exporter-{exporter}
 
 ## 手动埋点
 
-```
+```python
 from random import randint
 
 from flask import Flask
@@ -120,7 +120,7 @@ python3 -m app
 
 ## 配置
 
-```
+```yaml
 # otel-collector-config.yaml
 receivers:
   otlp:
@@ -181,7 +181,7 @@ service:
 
 ## 启动
 
-```
+```shell
 docker run \
     -p 4317:4317 \
     -p 8889:8889 \
@@ -199,7 +199,7 @@ docker run \
 
 ## 配置
 
-```
+```yaml
 scrape_configs:
   - job_name: 'otel-python-demo'
     scrape_interval: 5s
@@ -221,7 +221,7 @@ scrape_configs:
 
 ## 启动
 
-```
+```shell
 docker run -p 9090:9090 \
     -v $(pwd)/prometheus.yml:/etc/prometheus/prometheus.yml \
     prom/prometheus
@@ -241,7 +241,7 @@ docker run -p 9090:9090 \
 
 ## 启动
 
-```
+```shell
 docker run \
   -e COLLECTOR_OTLP_ENABLED=true \
   -p 16686:16686 \
