@@ -185,6 +185,9 @@
   },
   "active": "0f66f1d1a9c0873d",
   "lastOpenFiles": [
+    "技术开发/Python/Python asyncio理解/README.md",
+    "技术开发/Python/Python asyncio理解/Python asyncio理解.md",
+    "技术开发/Python/Python asyncio理解",
     "宏观经济/为什么现在才发现蚂蚁金服有问题？/2.png",
     "README.md",
     "宏观经济/为什么现在才发现蚂蚁金服有问题？/README.md",
@@ -204,7 +207,6 @@
     "技术开发/Python/Python asyncio理解.md",
     "技术开发/AIOps/时序预测常用算法/README.md",
     "技术开发/Telemetry/OpenTelemetry实验",
-    "技术开发/Telemetry",
     "技术开发/AIOps/异常检测常用算法/README.md",
     "技术开发/AIOps/异常检测常用算法/6.png",
     "技术开发/AIOps/异常检测常用算法/5.png",
@@ -216,7 +218,6 @@
     "技术开发/数学基础/概率论/README.md",
     "技术开发/数据开发/数据架构与建模/1.svg",
     "技术开发/数学基础/概率论/4.png",
-    "技术开发/数学基础/概率论/3.png",
     "技术开发/LLM/Transformer原理学习/README.md",
     "技术开发/LLM/梯度消失和LSTM解决方法原理/README.md",
     "技术开发/Redis/与Mysql一致性/README.md",
@@ -229,7 +230,6 @@
     "技术开发/OS/操作系统/README.md",
     "技术开发/Network/收发流程/README.md",
     "技术开发/LLM/Paper学习/MegaScale Scaling Large Language Model Training to More Than 10,000 GPUs/README.md",
-    "技术开发/LLM/Paper学习/PyTorch Distributed Experiences on Accelerating Data Parallel Training/README.md",
-    "技术开发/LLM/Paper学习/ZeRO Memory Optimizations Toward Training Trillion Parameter Models/README.md"
+    "技术开发/LLM/Paper学习/PyTorch Distributed Experiences on Accelerating Data Parallel Training/README.md"
   ]
 }
