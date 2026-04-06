@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "25a0bdef9af43c01",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6748c4bc783b785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f66f1d1a9c0873d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术开发/数学基础/数学分析/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6aea51682ea0038",
+    "type": "split",
+    "children": [
+      {
+        "id": "c26bdce775a45e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eca71bebd7f306f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0108062672221b94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1ac462af8eb62f41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "77a869c3d66f1f47",
+    "type": "split",
+    "children": [
+      {
+        "id": "c846234a24fbdca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a4fc068bd715da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "技术开发/数学基础/数学分析/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "39fc8b3b6427c809",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "技术开发/数学基础/数学分析/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "09c29ad582fde5af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9fde05eb399326c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6c6345c36f1fbc7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "技术开发/数学基础/数学分析/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "0f66f1d1a9c0873d",
+  "lastOpenFiles": [
+    "技术开发/Telemetry/OTel Collector部署/README.md",
+    "技术开发/数学基础/数学分析/README.md",
+    "技术开发/数学基础/数学分析",
+    "技术开发/Golang",
+    "技术开发/Python",
+    "技术开发/AIOps",
+    "技术开发/Telemetry/OpenTelemetry实验/README.md",
+    "技术开发/Telemetry/OTel Collector部署",
+    "技术开发/Python/Python asyncio理解.md",
+    "技术开发/AIOps/时序预测常用算法/README.md",
+    "技术开发/Telemetry/OpenTelemetry实验",
+    "技术开发/Telemetry",
+    "技术开发/AIOps/异常检测常用算法/README.md",
+    "技术开发/AIOps/异常检测常用算法/6.png",
+    "技术开发/AIOps/异常检测常用算法/5.png",
+    "技术开发/AIOps/异常检测常用算法/4.png",
+    "技术开发/AIOps/异常检测常用算法/3.png",
+    "技术开发/AIOps/异常检测常用算法/2.png",
+    "技术开发/AIOps/异常检测常用算法/1.png",
+    "技术开发/AIOps/异常检测常用算法",
+    "技术开发/数据开发/数据架构与建模/README.md",
+    "技术开发/AIOps/时序预测常用算法",
+    "技术开发/机器学习",
+    "技术开发/数学基础/概率论/README.md",
+    "技术开发/数据开发/数据架构与建模/1.svg",
+    "技术开发/数学基础/概率论/4.png",
+    "技术开发/数学基础/概率论/3.png",
+    "技术开发/数学基础/3.png",
+    "技术开发/LLM/Transformer原理学习/README.md",
+    "技术开发/LLM/梯度消失和LSTM解决方法原理/README.md",
+    "技术开发/Redis/与Mysql一致性/README.md",
+    "技术开发/软件工程/系统分析与设计 面向对象/README.md",
+    "技术开发/软件工程/系统分析与设计 面向过程/README.md",
+    "技术开发/软件工程/系统架构风格/README.md",
+    "技术开发/软件工程/软件过程模型/README.md",
+    "技术开发/Network/RDMA协议RoCEV2/README.md",
+    "技术开发/Network/RDMA相关工具/README.md",
+    "技术开发/OS/操作系统/README.md",
+    "技术开发/Network/收发流程/README.md",
+    "技术开发/LLM/Paper学习/MegaScale Scaling Large Language Model Training to More Than 10,000 GPUs/README.md",
+    "技术开发/LLM/Paper学习/PyTorch Distributed Experiences on Accelerating Data Parallel Training/README.md",
+    "技术开发/LLM/Paper学习/ZeRO Memory Optimizations Toward Training Trillion Parameter Models/README.md",
+    "技术开发/LLM/FSDP学习/README.md",
+    "技术开发/K8s&Container/容器网络vxlan学习/README.md",
+    "技术开发/K8s&Container/kustomize学习/README.md",
+    "技术开发/K8s&Container/kubebuilder学习/README.md"
+  ]
+}
